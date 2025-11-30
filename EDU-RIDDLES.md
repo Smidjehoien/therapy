@@ -116,13 +116,13 @@ Teacher note: Link to a live demo or the README for quick onboarding.
 
 ---
 
-## 9) Interactive Challenge — "Manpages &amp; Machines"
+## 9) Interactive Challenge — "Manpages & Machines"
 Riddle:
 "A manual old as terminals, hidden under a newer crown; convert the roff into a web that users can browse around. What is the task?"
 
 Answer: Convert WIMP's roff docs into HTML docs (or generate HTML man-pages)
 
-Learning goal: Teach content-to-HTML conversion, tooling like pandoc or groff-&gt;html pipelines.
+Learning goal: Teach content-to-HTML conversion, tooling like pandoc or groff->html pipelines.
 
 Where to use: Good first issue or "help wanted" task in WIMP.
 
